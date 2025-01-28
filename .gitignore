@@ -172,17 +172,17 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-arab_and_palestinian/Intermediates
-current/Intermediates
-current/Monitoring
-future/bau/Intermediates
-future/iplan/Intermediates
-future/JTMT/Intermediates
-future/JTMT/Monitoring
+# arab_and_palestinian/Intermediates
+# current/Intermediates
+# current/Monitoring
+# future/bau/Intermediates
+# future/iplan/Intermediates
+# future/JTMT/Intermediates
+# future/JTMT/Monitoring
 
-outputs
-current/gov_muni_students.xlsx
+# outputs
+# current/gov_muni_students.xlsx
 
-*.pyc
-*_output.ipynb
-*output_notebooks/
+# *.pyc
+# *_output.ipynb
+# *output_notebooks/
